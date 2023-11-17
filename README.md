@@ -1,2 +1,3 @@
 # firstclass-demo
-This is m first git repository
+This is my first git repository
+Author-shamma syed
